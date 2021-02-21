@@ -3,9 +3,9 @@
 
 ## Character Eligibility
 A character may only be eligible for a crossover if they fulfill the following prerequisites:
-  1. The character is inherently fictitious.
-  2. The character is copyrighted at the time of the crossover.
-  3. The copyrighted version of the character personally appears in the crossover.
+1. The character is inherently fictitious.
+2. The character is copyrighted at the time of the crossover.
+3. The copyrighted version of the character personally appears in the crossover.
 
 ## Crossover Magnitude
 Crossovers are divided into the following magnitudes:
