@@ -40,7 +40,7 @@ _Lore Archetypes_
 ### Ineligible Magnitudes
 Crossover magnitudes that do not constitute addition to the roadmap.
 
-**Type 4 (Delta)** - Tangential sub-universe.  A crossover that portrays a single universe within which various sub-universes exist fictionally, implying that the sub-universes aren't rooted in any reality and are in no way linked to the portrayed universe.
+**Type 4 (Delta)** - Tangential sub-universes.  A crossover that portrays a single universe within which various sub-universes exist fictionally, implying that the sub-universes aren't rooted in any reality and are in no way linked to the portrayed universe.
 
 _Lore Archetypes_
 - A character from Universe B refers to a character from Universe A as though the character is fictitious and couldn’t possibly be present at any time.  An example of this lore archetype would be the numerous references on the TV show [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) that are made to [Superman](https://en.wikipedia.org/wiki/Superman) as a fictional character in comic books and animated television shows.
