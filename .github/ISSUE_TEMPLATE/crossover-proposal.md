@@ -1,6 +1,6 @@
 ---
 name: Crossover Proposal
-about: Propose a known crossover to be added to the roadmap.
+about: Propose that a currently absent crossover event be added to the roadmap.
 title: ''
 labels: Crossover Proposal
 assignees: UnicornSnuggler
