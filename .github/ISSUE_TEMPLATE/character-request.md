@@ -2,7 +2,7 @@
 name: Character Request
 about: Request that a currently absent character be added to the roadmap.
 title: ''
-labels: Character Request
+labels: Character Request, Research
 assignees: UnicornSnuggler
 
 ---

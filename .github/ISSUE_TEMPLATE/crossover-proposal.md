@@ -2,7 +2,7 @@
 name: Crossover Proposal
 about: Propose that a currently absent crossover event be added to the roadmap.
 title: ''
-labels: Crossover Proposal
+labels: Crossover Proposal, Research
 assignees: UnicornSnuggler
 
 ---
